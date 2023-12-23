@@ -42,3 +42,5 @@ logging.level.org.springframework.data.jpa=DEBUG
 ## Steps for update employee (only new things mentioned)
  @PathVariable is used to bind id with parametet
  This is used to show previous data in field (its like getter method) th:field="*{firstName}" 
+
+ ![image](https://github.com/suraj480/employeemanagementwebapp/assets/72219318/39ac0a19-bf99-4d43-94e7-76484b17bb8b)
