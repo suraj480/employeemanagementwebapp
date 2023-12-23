@@ -46,3 +46,5 @@ logging.level.org.springframework.data.jpa=DEBUG
  ![image](https://github.com/suraj480/employeemanagementwebapp/assets/72219318/39ac0a19-bf99-4d43-94e7-76484b17bb8b)
 
 ## Delete employee
+
+![image](https://github.com/suraj480/employeemanagementwebapp/assets/72219318/597dc686-b6c0-4391-8809-ec5df89e5da9)
