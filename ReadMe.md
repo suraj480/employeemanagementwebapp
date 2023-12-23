@@ -29,3 +29,12 @@ logging.level.org.springframework=DEBUG
 logging.level.org.hibernate=DEBUG
 logging.level.root=INFO
 logging.level.org.springframework.data.jpa=DEBUG
+
+## Steps for adding employee
+1. first complete the EmployeeService and EmployeeServiceImpl
+2. add button in index.html to redirect
+3. add method handler showNewEmployeeForm
+4. Inside employeeController
+5. Design addEmployeeForm.html
+6. now in addEmployeeForm.html in form we define action th:action="@{/saveEmployee}"
+7. above action we will use to save data to database
