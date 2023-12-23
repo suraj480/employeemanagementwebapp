@@ -1,6 +1,12 @@
-This project is made with help of spring-booot , Mysql and Thymeleaf
+# This project is made with help of spring-booot , Mysql and Thymeleaf
 
-# ***
+![flow](https://github.com/suraj480/employeemanagementwebapp/assets/72219318/950f2c14-36e6-4030-aa0e-a87f6ee0cd11)
+
+![employee-management-webapp-dependecies](https://github.com/suraj480/employeemanagementwebapp/assets/72219318/4635f9f0-a965-494a-b4e4-93594cca6c2c)
+
+![image](https://github.com/suraj480/employeemanagementwebapp/assets/72219318/35c6fa10-8c8b-40e1-b552-4ee3013036d6)
+
+## Important steps :-
 1. Add dependecy (spring web ,javax,spring-boot-devtools,spring-data-jpa,thymeleaf,hibernate-core)
 2. Create packages (controller, model, repository, service)
 3. Define pojo(plain old java object) class inside entity packages and add @Entity
