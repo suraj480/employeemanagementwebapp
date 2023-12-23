@@ -38,3 +38,7 @@ logging.level.org.springframework.data.jpa=DEBUG
 5. Design addEmployeeForm.html
 6. now in addEmployeeForm.html in form we define action th:action="@{/saveEmployee}"
 7. above action we will use to save data to database
+
+## Steps for update employee (only new things mentioned)
+ @PathVariable is used to bind id with parametet
+ This is used to show previous data in field (its like getter method) th:field="*{firstName}" 
